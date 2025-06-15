@@ -27,3 +27,5 @@ override.tf.json
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
+Azure/AzureMonitor/.terraform.lock.hcl
+Azure/AZ-700/Demo-Configuring_a_VNet/end/.terraform.lock.hcl
